@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (4.7.3)
+  - FontAwesome.swift (1.4.5)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - FontAwesome.swift
+  - SDWebImage (~> 4.0)
+  - SVProgressHUD
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - FontAwesome.swift
+    - SDWebImage
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  FontAwesome.swift: a351dbb86b9fcec9aad6bce2fdd5b95e9a7b8828
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 31bd12c4fe6fd165d861932f0cbaedac05a4a2ad
+
+COCOAPODS: 1.6.0.beta.1
