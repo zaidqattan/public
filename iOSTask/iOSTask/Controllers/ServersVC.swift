@@ -8,7 +8,7 @@
 
 import UIKit
 import SVProgressHUD
-import FontAwesome_swift
+
 class ServersVC: UIViewController, UITableViewDelegate, UITableViewDataSource, UISearchResultsUpdating{
     let activityIndicator: UIActivityIndicatorView = UIActivityIndicatorView()
     let controller = UISearchController(searchResultsController: nil)
